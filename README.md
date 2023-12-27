@@ -10,8 +10,7 @@
 - 📫 How to reach me: [Email](mailto:manuellelei750@gmail.com) 
 - ⚡ Fun fact: Have a knack for baking and debugging code simultaneously.
   
-![Emmanuel Github stats](https://github-readme-stats.vercel.app/api?username=Elelei&theme=synthwave&show_icons=true&count_private=true)
-
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elelei&show_icons=true&theme=tokyonight )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
