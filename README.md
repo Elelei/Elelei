@@ -6,7 +6,7 @@
 
 <!-- - 🔭 Goal: Make the internet a better place. -->
 - 💯 Rule of the thumb: Every day is a learning day.
-- 🌱 I am currently learning Cyber Security
+- 🌱 I am currently learning Data Science
 - 📫 How to reach me: [Email](mailto:manuellelei750@gmail.com) 
 - ⚡ Fun fact: Have a knack for baking and debugging code simultaneously.
   
