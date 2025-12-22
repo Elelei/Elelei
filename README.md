@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Lelei</h1>
 <h3 align="center">⚡I am a Tech student at Kabarak University. 🦋I am a beneficiary of the Power Learn Project's Software Development Course and currently undertaking a Data Science course under ALX. I am an Ambitious individual committed to hard work and collaborations as well as getting to learn new things. ⚡Being an enthusiastic learner and a determined problem-solver, I believe I'll be able to make a difference in the society at large.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elelei&theme=gruvbox" alt="NjeriMaina4172" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elelei&theme=gruvbox" alt="Elelei" /></a> </p>
 <p align="left"> <a href="https://twitter.com/leleiemanuel" target="blank"><img src="https://img.shields.io/twitter/follow/leleiemanuel?logo=twitter&style=for-the-badge" alt="leleiemanuel" /></a> </p>
 
 <!-- - 🔭 Goal: Make the internet a better place. -->
